@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Swain</h1>
-<h3 align="center">An Enthusiastic and Confident Learner with no Backlogs and active learning and experiencing</h3>
+<h3 align="center">An Enthusiastic, Confident Learner with no Backlogs, active learning and experiencing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashainx&label=Profile%20views&color=0e75b6&style=flat" alt="ashainx" /> </p>
 
