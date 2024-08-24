@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashainx&label=Profile%20views&color=0e75b6&style=flat" alt="ashainx" /> </p>
 
-- 🔭 I’m currently working on [Employee Database using MERN](https://github.com/AshainX/MERN-frontend)
+- 🔭 I’m currently working on Nothing but trying to developing something new or learn new 
 
 - 🌱 I’m currently learning **MERN, Django and many more**
 
