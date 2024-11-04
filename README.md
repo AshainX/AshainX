@@ -3,19 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashainx&label=Profile%20views&color=0e75b6&style=flat" alt="ashainx" /> </p>
 
-- 🔭 I’m currently working on Nothing but trying to developing something new or learn new 
+- 🔭 I’m currently working on EDM Subgenre Classification
 
-- 🌱 I’m currently learning **MERN, Django and many more**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Website Development**
-
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **Data Science And Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshainX](https://github.com/AshainX)
 
-- 📝 I regularly write articles on [https://medium.com/@swain.ashutosh18](https://medium.com/@swain.ashutosh18)
-
-- 💬 Ask me about **C++ and JavaScript**
+- 💬 Ask me about **C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
