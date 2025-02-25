@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashainx&label=Profile%20views&color=0e75b6&style=flat" alt="ashainx" /> </p>
 
-- 🔭 I’m currently working on EDM Subgenre Classification
+- 🔭 I’m currently working on **ChatTool and 2D Shape Detection and Answering Using LLM(RAG)**
 
 - 🌱 I’m currently learning **Deep Learning**
 
