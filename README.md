@@ -2,7 +2,7 @@
 
 Data Scientist I at Invent Health, focused on scalable backend architectures, structural LLM's designs and applied machine learning models.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashutosh--swain-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-swain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashutosh--swain-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-swain](https://www.linkedin.com/in/ashutoshswain007/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ashain-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ashain)
 [![CodeChef](https://img.shields.io/badge/CodeChef-ashutosh__18-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/ashutosh_18)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ashain-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/ashain)
