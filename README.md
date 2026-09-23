@@ -44,5 +44,9 @@ Software Engineer focused on backend systems, cloud architecture, and applied ma
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshainX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=AshainX&theme=tokyonight&hide_border=true" alt="Ashutosh's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshainX&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
