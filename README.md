@@ -14,7 +14,7 @@ Software Engineer focused on backend systems, cloud architecture, and applied ma
 
 * **Systems & Backend:** Designing performant service architectures, clean APIs, and maintainable cloud deployments.
 * **Applied AI / Vision:** Exploring RAG pipelines, LLM-driven tooling, and computer vision models.
-* **Problem Solving:** Competitive programming with a strong foundation in core data structures and C++.
+* **Problem Solving:** Practicing programming with a good foundation in core data structures and C++ and learning.
 
 ---
 
@@ -42,15 +42,6 @@ Software Engineer focused on backend systems, cloud architecture, and applied ma
 
 ---
 
-### Featured Repositories
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[ChatTool](https://github.com/AshainX)** | Conversational interface and multimodal tool integration. | Python, LLM, FastAPI |
-| **[2D-Shape-Detection-RAG](https://github.com/AshainX)** | Geometric feature extraction coupled with an LLM-based query engine. | OpenCV, PyTorch, RAG |
-| **[Project-Three](https://github.com/AshainX)** | One-line summary describing the problem solved and core engineering challenge. | AWS, C++, PostgreSQL |
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshainX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashutosh's GitHub Stats" />
