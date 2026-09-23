@@ -1,6 +1,6 @@
 # Ashutosh Swain
 
-Software Engineer focused on backend systems, cloud architecture, and applied machine learning.
+Data Scientist I at Invent Health, focused on scalable backend architectures, structural LLM's designs and applied machine learning models.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashutosh--swain-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-swain)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ashain-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ashain)
