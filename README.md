@@ -47,6 +47,3 @@ Software Engineer focused on backend systems, cloud architecture, and applied ma
   <img src="https://streak-stats.demolab.com/?user=AshainX&theme=tokyonight&hide_border=true" alt="Ashutosh's Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshainX&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
