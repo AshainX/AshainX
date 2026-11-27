@@ -1,6 +1,6 @@
 # Ashutosh Swain
 
-Data Scientist at Invent Health, focused on scalable backend architectures, structural LLM's designs and applied machine learning models.
+Data Scientist, focused on scalable backend architectures, structural LLM's designs and applied machine learning models.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashutoshswain007-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshswain007/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ashain-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ashain)
